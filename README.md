@@ -4,3 +4,5 @@ It has recently been suggested that tuning towards the boundary of the positivit
 This Mathematica notebook utilizes FeynCalc software to compute the total decay width for the light Higgs mass eigenstate to decay into standard model particles. This calculation is needed to compute the total cross section since the decay width shows up in the Breit-Wigner form of the propagator of an unstable intermediate state.
 # File 2: Abyss_CS.nb
 This Mathematica notebook utilizes FeynCalc software to compute the total cross section for two dark matter particles to annihilate via an s-channel Feynman diagram to an intermediate scalar boson which then decays to standard model particles. This calculation is essential to compute the dark matter relic density.
+# File 3: Abyss Analysis
+This Mathematica notebook does a complete symbolic analysis of the tree and one-loop corrected scalar potential of the theory.
