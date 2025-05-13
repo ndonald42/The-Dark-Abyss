@@ -6,3 +6,5 @@ This Mathematica notebook utilizes FeynCalc software to compute the total decay 
 This Mathematica notebook utilizes FeynCalc software to compute the total cross section for two dark matter particles to annihilate via an s-channel Feynman diagram to an intermediate scalar boson which then decays to standard model particles. This calculation is essential to compute the dark matter relic density.
 # File 3: Abyss Analysis
 This Mathematica notebook does a complete symbolic analysis of the tree and one-loop corrected scalar potential of the theory.
+# File 4: Abyss Dark Matter
+This Mathematica notebook does a symbolic and numerical analysis of the dark matter in the theory to predict both the relic density and the spin-independent cross section.
